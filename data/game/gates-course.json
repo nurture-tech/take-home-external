@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "defaultActiveGateCount": 2,
+  "lapOrderByGateCount": {
+    "1": [1],
+    "2": [1, 2, 1],
+    "3": [1, 3, 2, 1],
+    "4": [1, 3, 2, 4, 1]
+  },
+  "gates": [
+    {
+      "id": "gate-1",
+      "position": { "x": -40, "y": 0.1, "z": 0 },
+      "rotationY": 0,
+      "scale": 300,
+      "passEntry": { "x": -40, "z": -5 },
+      "passExit": { "x": -40, "z": 5 }
+    },
+    {
+      "id": "gate-2",
+      "position": { "x": 40, "y": 0.1, "z": 10 },
+      "rotationY": 0,
+      "scale": 300,
+      "passEntry": { "x": 40, "z": 5 },
+      "passExit": { "x": 40, "z": -5 }
+    },
+    {
+      "id": "gate-3",
+      "position": { "x": 0, "y": 0.5, "z": 50 },
+      "rotationY": -90,
+      "scale": 300
+    },
+    {
+      "id": "gate-4",
+      "position": { "x": -15, "y": 1.0, "z": -40 },
+      "rotationY": 90,
+      "scale": 300
+    }
+  ]
+}

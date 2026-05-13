@@ -1,0 +1,7 @@
+{
+  "id": "ground",
+  "name": "Lush Green Terrain Texture",
+  "model_path": "/assets/ground.glb",
+  "image_path": "/assets/ground.png",
+  "description": "Flat green terrain texture, suitable for game environments or landscape modeling."
+}

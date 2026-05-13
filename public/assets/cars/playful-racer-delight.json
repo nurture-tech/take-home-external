@@ -1,0 +1,22 @@
+{
+  "id": "playful-racer-delight",
+  "name": "Playful Racer Delight",
+  "model_path": "/assets/cars/playful-racer-delight.glb",
+  "image_path": "/assets/cars/playful-racer-delight.png",
+  "description": "Green and orange two-door compact car, minimalist design, playful style.",
+  "bounds": {
+    "width": 3.407675,
+    "height": 3.69425,
+    "depth": 6.32225
+  },
+  "drive": {
+    "maxForwardSpeed": 41,
+    "maxReverseSpeed": 7,
+    "speedResponse": 10,
+    "coastResponse": 0.45,
+    "lateralGrip": 0.84,
+    "slideAmount": 0.16,
+    "steerSpeed": 1.45,
+    "minSteerSpeed": 0.32
+  }
+}

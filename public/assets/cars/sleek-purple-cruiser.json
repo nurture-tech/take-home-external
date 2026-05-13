@@ -1,0 +1,22 @@
+{
+  "id": "sleek-purple-cruiser",
+  "name": "Sleek Purple Cruiser",
+  "model_path": "/assets/cars/sleek-purple-cruiser.glb",
+  "image_path": "/assets/cars/sleek-purple-cruiser.png",
+  "description": "Compact purple vehicle with a simplistic design, featuring a black hood and no specific livery.",
+  "bounds": {
+    "width": 3.2026,
+    "height": 3.524225,
+    "depth": 4.536825
+  },
+  "drive": {
+    "maxForwardSpeed": 42,
+    "maxReverseSpeed": 7,
+    "speedResponse": 9.75,
+    "coastResponse": 0.45,
+    "lateralGrip": 0.84,
+    "slideAmount": 0.16,
+    "steerSpeed": 1.45,
+    "minSteerSpeed": 0.32
+  }
+}

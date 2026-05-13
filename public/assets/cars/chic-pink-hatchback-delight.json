@@ -1,0 +1,22 @@
+{
+  "id": "chic-pink-hatchback-delight",
+  "name": "Chic Pink Hatchback Delight",
+  "model_path": "/assets/cars/chic-pink-hatchback-delight.glb",
+  "image_path": "/assets/cars/chic-pink-hatchback-delight.png",
+  "description": "Compact pink hatchback with a simple geometric design.",
+  "bounds": {
+    "width": 3.407675,
+    "height": 3.69425,
+    "depth": 6.32225
+  },
+  "drive": {
+    "maxForwardSpeed": 35,
+    "maxReverseSpeed": 8,
+    "speedResponse": 8,
+    "coastResponse": 0.5,
+    "lateralGrip": 0.92,
+    "slideAmount": 0,
+    "steerSpeed": 1.65,
+    "minSteerSpeed": 0.2
+  }
+}

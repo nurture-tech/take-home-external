@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "gameName": "Gate Rally",
+  "gamePurpose": "Drive through the highlighted gates in order, complete the target laps, and finish as quickly as possible.",
+  "chat": {
+    "welcome": [
+      "Gate Rally is a checkpoint driving game.",
+      "Drive through highlighted gates in order, complete the target laps, and finish as quickly as possible.",
+      "You can ask me to switch cars, change lap count, adjust active gates for difficulty, add gates or ramps, start the race, or replay after finishing."
+    ],
+    "placeholder": "Try: Start race. Make it 3 laps. Make it harder. What are the different cars I can race with? Which car is fastest?",
+    "localReplies": {
+      "startRace": "Get ready! The countdown is about to begin.",
+      "replayRace": "Starting fresh — I'll reset your run so you can line up another start.",
+      "randomCar": "Here's a random pick — you're now in the {{carName}}. Enjoy the drive!"
+    }
+  },
+  "ui": {
+    "briefingTitle": "Get ready",
+    "briefingSubtitle": "The countdown starts in a moment.",
+    "countdownFrom": 3,
+    "countdownGo": "GO!!!",
+    "finishedBanner": "FINISHED!!!"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "purple-compact-cruiser",
+  "name": "Purple Compact Cruiser",
+  "model_path": "/assets/cars/purple-compact-cruiser.glb",
+  "image_path": "/assets/cars/purple-compact-cruiser.png",
+  "description": "Compact, boxy style in purple with gray interior; no specific livery or role evident.",
+  "bounds": {
+    "width": 3.2026,
+    "height": 3.524225,
+    "depth": 4.536825
+  },
+  "drive": {
+    "maxForwardSpeed": 35.5,
+    "maxReverseSpeed": 8,
+    "speedResponse": 8,
+    "coastResponse": 0.5,
+    "lateralGrip": 0.92,
+    "slideAmount": 0,
+    "steerSpeed": 1.6,
+    "minSteerSpeed": 0.2
+  }
+}

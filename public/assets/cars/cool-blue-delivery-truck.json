@@ -1,0 +1,22 @@
+{
+  "id": "cool-blue-delivery-truck",
+  "name": "Cool Blue Delivery Truck",
+  "model_path": "/assets/cars/cool-blue-delivery-truck.glb",
+  "image_path": "/assets/cars/cool-blue-delivery-truck.png",
+  "description": "Light blue and dark blue delivery truck design, with a simple boxy shape.",
+  "bounds": {
+    "width": 3.660375,
+    "height": 5.112125,
+    "depth": 6.024787
+  },
+  "drive": {
+    "maxForwardSpeed": 28,
+    "maxReverseSpeed": 8.5,
+    "speedResponse": 6.5,
+    "coastResponse": 0.62,
+    "lateralGrip": 0.95,
+    "slideAmount": 0.02,
+    "steerSpeed": 1.38,
+    "minSteerSpeed": 0.16
+  }
+}

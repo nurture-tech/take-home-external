@@ -1,0 +1,22 @@
+{
+  "id": "city-cab-express",
+  "name": "City Cab Express",
+  "model_path": "/assets/cars/city-cab-express.glb",
+  "image_path": "/assets/cars/city-cab-express.png",
+  "description": "Yellow taxi cab with a checkerboard roof and simple geometric design.",
+  "bounds": {
+    "width": 3.2026,
+    "height": 4.014737,
+    "depth": 4.782538
+  },
+  "drive": {
+    "maxForwardSpeed": 28,
+    "maxReverseSpeed": 9,
+    "speedResponse": 6.5,
+    "coastResponse": 0.58,
+    "lateralGrip": 0.95,
+    "slideAmount": 0.02,
+    "steerSpeed": 1.38,
+    "minSteerSpeed": 0.16
+  }
+}

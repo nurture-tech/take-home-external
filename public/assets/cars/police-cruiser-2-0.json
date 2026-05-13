@@ -1,0 +1,22 @@
+{
+  "id": "police-cruiser-2-0",
+  "name": "Police Cruiser 2.0",
+  "model_path": "/assets/cars/police-cruiser-2-0.glb",
+  "image_path": "/assets/cars/police-cruiser-2-0.png",
+  "description": "Black and white police car with a blue and red light on top.",
+  "bounds": {
+    "width": 3.660375,
+    "height": 4.621325,
+    "depth": 6.015575
+  },
+  "drive": {
+    "maxForwardSpeed": 35,
+    "maxReverseSpeed": 8,
+    "speedResponse": 8,
+    "coastResponse": 0.5,
+    "lateralGrip": 0.92,
+    "slideAmount": 0,
+    "steerSpeed": 1.6,
+    "minSteerSpeed": 0.22
+  }
+}

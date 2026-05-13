@@ -1,0 +1,22 @@
+{
+  "id": "vivid-orange-compact-cruiser",
+  "name": "Vivid Orange Compact Cruiser",
+  "model_path": "/assets/cars/vivid-orange-compact-cruiser.glb",
+  "image_path": "/assets/cars/vivid-orange-compact-cruiser.png",
+  "description": "Bright orange compact car with a simple design, no livery.",
+  "bounds": {
+    "width": 3.660375,
+    "height": 4.214638,
+    "depth": 6.015575
+  },
+  "drive": {
+    "maxForwardSpeed": 42,
+    "maxReverseSpeed": 7,
+    "speedResponse": 10,
+    "coastResponse": 0.45,
+    "lateralGrip": 0.84,
+    "slideAmount": 0.14,
+    "steerSpeed": 1.45,
+    "minSteerSpeed": 0.32
+  }
+}

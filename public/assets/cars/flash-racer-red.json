@@ -1,0 +1,22 @@
+{
+  "id": "flash-racer-red",
+  "name": "Flash Racer Red",
+  "model_path": "/assets/cars/flash-racer-red.glb",
+  "image_path": "/assets/cars/flash-racer-red.png",
+  "description": "Red compact car with white stripes, simplistic design, no specific livery.",
+  "bounds": {
+    "width": 3.407675,
+    "height": 3.69425,
+    "depth": 5.831325
+  },
+  "drive": {
+    "maxForwardSpeed": 33,
+    "maxReverseSpeed": 8,
+    "speedResponse": 7.8,
+    "coastResponse": 0.52,
+    "lateralGrip": 0.87,
+    "slideAmount": 0.18,
+    "steerSpeed": 1.82,
+    "minSteerSpeed": 0.26
+  }
+}

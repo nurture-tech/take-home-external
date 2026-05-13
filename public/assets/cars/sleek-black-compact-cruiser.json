@@ -1,0 +1,22 @@
+{
+  "id": "sleek-black-compact-cruiser",
+  "name": "Sleek Black Compact Cruiser",
+  "model_path": "/assets/cars/sleek-black-compact-cruiser.glb",
+  "image_path": "/assets/cars/sleek-black-compact-cruiser.png",
+  "description": "Simple black compact car with a boxy design and minimalistic features.",
+  "bounds": {
+    "width": 3.522875,
+    "height": 3.69425,
+    "depth": 5.932075
+  },
+  "drive": {
+    "maxForwardSpeed": 35,
+    "maxReverseSpeed": 8,
+    "speedResponse": 8.25,
+    "coastResponse": 0.5,
+    "lateralGrip": 0.92,
+    "slideAmount": 0,
+    "steerSpeed": 1.6,
+    "minSteerSpeed": 0.2
+  }
+}

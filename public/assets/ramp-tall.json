@@ -1,0 +1,7 @@
+{
+  "id": "ramp-tall",
+  "name": "Tall launch ramp",
+  "model_path": "/assets/ramp-tall.glb",
+  "image_path": "/assets/ramp-tall.png",
+  "description": "Taller inclined ramp mesh for vehicle jumps."
+}

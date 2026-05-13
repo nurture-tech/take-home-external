@@ -1,0 +1,7 @@
+{
+  "id": "gate",
+  "name": "Rally checkpoint gate",
+  "model_path": "/assets/gate.glb",
+  "image_path": "/assets/gate.png",
+  "description": "Arched gate cars pass through in sequence to score laps and hit checkpoints in Gate Rally."
+}

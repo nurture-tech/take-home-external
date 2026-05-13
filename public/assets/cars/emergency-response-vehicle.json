@@ -1,0 +1,22 @@
+{
+  "id": "emergency-response-vehicle",
+  "name": "Emergency Response Vehicle",
+  "model_path": "/assets/cars/emergency-response-vehicle.glb",
+  "image_path": "/assets/cars/emergency-response-vehicle.png",
+  "description": "Red and white ambulance with a boxy body style.",
+  "bounds": {
+    "width": 3.660375,
+    "height": 5.112125,
+    "depth": 6.024787
+  },
+  "drive": {
+    "maxForwardSpeed": 28,
+    "maxReverseSpeed": 9,
+    "speedResponse": 6.5,
+    "coastResponse": 0.62,
+    "lateralGrip": 0.96,
+    "slideAmount": 0.02,
+    "steerSpeed": 1.38,
+    "minSteerSpeed": 0.16
+  }
+}

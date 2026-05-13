@@ -1,0 +1,22 @@
+{
+  "id": "red-racer-pickup",
+  "name": "Red Racer Pickup",
+  "model_path": "/assets/cars/red-racer-pickup.glb",
+  "image_path": "/assets/cars/red-racer-pickup.png",
+  "description": "Bright red compact pickup truck with a simple, cartoonish design.",
+  "bounds": {
+    "width": 3.660375,
+    "height": 4.214638,
+    "depth": 5.7454
+  },
+  "drive": {
+    "maxForwardSpeed": 35,
+    "maxReverseSpeed": 8,
+    "speedResponse": 8,
+    "coastResponse": 0.5,
+    "lateralGrip": 0.93,
+    "slideAmount": 0,
+    "steerSpeed": 1.6,
+    "minSteerSpeed": 0.2
+  }
+}

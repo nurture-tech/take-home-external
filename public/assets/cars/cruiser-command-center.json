@@ -1,0 +1,22 @@
+{
+  "id": "cruiser-command-center",
+  "name": "Cruiser Command Center",
+  "model_path": "/assets/cars/cruiser-command-center.glb",
+  "image_path": "/assets/cars/cruiser-command-center.png",
+  "description": "Black and white police car with a light bar on top.",
+  "bounds": {
+    "width": 3.522875,
+    "height": 4.151887,
+    "depth": 6.1353
+  },
+  "drive": {
+    "maxForwardSpeed": 42,
+    "maxReverseSpeed": 7,
+    "speedResponse": 10,
+    "coastResponse": 0.48,
+    "lateralGrip": 0.84,
+    "slideAmount": 0.16,
+    "steerSpeed": 1.45,
+    "minSteerSpeed": 0.32
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ramp",
+  "name": "Launch ramp",
+  "model_path": "/assets/ramp.glb",
+  "image_path": "/assets/ramp.png",
+  "description": "Inclined ramp players place so cars can jump and catch air in Gate Rally."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "police-cruiser-01",
+  "name": "Police Cruiser 01",
+  "model_path": "/assets/cars/police-cruiser-01.glb",
+  "image_path": "/assets/cars/police-cruiser-01.png",
+  "description": "Black and white police car with a red and blue lightbar on top.",
+  "bounds": {
+    "width": 3.2026,
+    "height": 3.967262,
+    "depth": 4.782538
+  },
+  "drive": {
+    "maxForwardSpeed": 33,
+    "maxReverseSpeed": 8,
+    "speedResponse": 7.8,
+    "coastResponse": 0.52,
+    "lateralGrip": 0.87,
+    "slideAmount": 0.2,
+    "steerSpeed": 1.78,
+    "minSteerSpeed": 0.26
+  }
+}

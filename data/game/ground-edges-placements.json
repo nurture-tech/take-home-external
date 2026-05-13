@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "defaultScale": 200,
+  "placements": [
+    { "id": "south", "position": { "x": 0, "y": 0, "z": -200 }, "rotationY": 0 },
+    { "id": "north", "position": { "x": 0, "y": 0, "z": 200 }, "rotationY": 0 },
+    { "id": "west", "position": { "x": -200, "y": 0, "z": 0 }, "rotationY": 0 },
+    { "id": "east", "position": { "x": 200, "y": 0, "z": 0 }, "rotationY": 0 }
+  ]
+}

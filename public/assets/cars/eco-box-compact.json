@@ -1,0 +1,22 @@
+{
+  "id": "eco-box-compact",
+  "name": "Eco Box Compact",
+  "model_path": "/assets/cars/eco-box-compact.glb",
+  "image_path": "/assets/cars/eco-box-compact.png",
+  "description": "Boxy green compact car with a simple design and no specific livery or role.",
+  "bounds": {
+    "width": 3.2026,
+    "height": 3.524225,
+    "depth": 4.782538
+  },
+  "drive": {
+    "maxForwardSpeed": 28.5,
+    "maxReverseSpeed": 9,
+    "speedResponse": 6.5,
+    "coastResponse": 0.62,
+    "lateralGrip": 0.95,
+    "slideAmount": 0.02,
+    "steerSpeed": 1.38,
+    "minSteerSpeed": 0.16
+  }
+}

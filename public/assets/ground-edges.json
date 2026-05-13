@@ -1,0 +1,7 @@
+{
+  "id": "ground-edges",
+  "name": "Track rim edges",
+  "model_path": "/assets/ground-edges.glb",
+  "image_path": "/assets/ground-edges.png",
+  "description": "Decorative rim mesh placed around the playfield edge."
+}
