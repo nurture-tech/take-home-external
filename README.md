@@ -2,6 +2,12 @@
 
 This folder contains **static assets** and **authored game JSON** for **Gate Rally** (see `data/game/game-copy.json` for the canonical name and one-line purpose). Copy or merge these paths into a **Next.js** app that uses **Babylon.js** so URLs and imports match the layout described below.
 
+
+
+https://github.com/user-attachments/assets/242d9bc4-ec7d-4593-a0d4-21a2ade83f62
+
+
+
 ## Expected stack
 
 The source game is built with:
